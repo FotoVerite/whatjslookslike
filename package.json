@@ -1,0 +1,25 @@
+{
+  "name": "whatjslookslike",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/FotoVerite/whatjslookslike"
+  },
+  "keywords": [
+    "node",
+    "js",
+    "hapi",
+    "fotoverite"
+  ],
+  "author": "Matthew Bergman aka fotoverite aka thegreatest",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/FotoVerite/whatjslookslike/issues"
+  },
+  "homepage": "https://github.com/FotoVerite/whatjslookslike"
+}
